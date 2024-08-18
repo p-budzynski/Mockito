@@ -1,0 +1,16 @@
+Mockito – biblioteka służąca do “mockowania” obiektów czyli ich udawania.
+Dzięki temu możemy przetestować wybrany komponent bez tworzenia używanych przez niego prawdziwych obiektów
+(dostarczanie udawanych zależności). Mockujemy po to, aby zaoszczędzić sobie tworzenia instancji wymaganych obiektów do testów.
+Mockowanie daje przewidywalny wynik działania zmockowanego komponentu, ponieważ sami ustalamy jak ten mock się zachowa.
+
+
+Praca domowa_1:
+Wzorując się na zadaniu z lekcji - stwórz serwis i interfejsy, które sterują sygnalizacją świetlną w zależności od prędkości nadjeżdżającego auta
+- jeżeli jedzie więcej niż 40 kmh i jest w odległości nie większej niż 50m to ma się zapalić czerwone światło
+- klasy i interfejsy dowolne, ma być ładnie oraz do tego testy jednostkowe z mockito.
+
+Praca domowa 2:
+Dopisac testy do OnBoardComputerController
+
+Praca domowa 3:
+Podpiac do projektu jacoco, i napisac testy tak zeby metody "testowalne" mialy pokrycie conajmniej 80% linii, a te ktorych nie da sie przetestowac byly wyexcludowane

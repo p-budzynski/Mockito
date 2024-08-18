@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b0b8376-1a5a-4a31-8f4c-4f8a61f1783a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2kecyyIACIM66Fn6M1telyI98AD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CalculatorServiceTest.executor": "Run",
+    "JUnit.CalculatorServiceTest.shouldAdd2And3.executor": "Run",
+    "JUnit.CalculatorServiceTest.shouldAdd3And3.executor": "Run",
+    "JUnit.MasterTrafficLightControllerTest.executor": "Coverage",
+    "JUnit.MasterTrafficLightControllerTest.shouldChangeLightToGreenAtSpeedAbove50AndDistanceAbove40.executor": "Run",
+    "JUnit.MasterTrafficLightControllerTest.shouldChangeLightToGreenAtSpeedBelow40AndDistanceBelow50.executor": "Run",
+    "JUnit.MasterTrafficLightControllerTest.shouldChangeLightToGreenAtSpeedBelow50AndDistanceBelow40.executor": "Run",
+    "JUnit.MasterTrafficLightControllerTest.shouldChangeLightToRedAtSpeedAbove50AndDistanceBelow40.executor": "Run",
+    "JUnit.MasterTrafficLightControllerTest2.executor": "Coverage",
+    "JUnit.MasterTrafficLightControllerTest2.shouldChangeLightToGreenAtSpeedAbove40AndDistanceAbove50.executor": "Run",
+    "JUnit.MasterTrafficLightControllerTest2.shouldChangeLightToGreenAtSpeedBelow40AndDistanceBelow50.executor": "Run",
+    "JUnit.MasterTrafficLightControllerTest2.shouldChangeLightToRedAtSpeedAbove40AndDistanceBelow50 (1).executor": "Run",
+    "JUnit.MasterTrafficLightControllerTest2.shouldChangeLightToRedAtSpeedAbove40AndDistanceBelow50.executor": "Run",
+    "JUnit.OnBoardComputerControllerTest.executor": "Run",
+    "JUnit.OnBoardComputerControllerTest.shouldCloseRoofWhenSpeedIsBelow30.executor": "Run",
+    "JUnit.OnBoardComputerControllerTest.shouldOpenRoofWhenSpeedIs30.executor": "Run",
+    "JUnit.OnBoardComputerControllerTest.shouldThrowExceptionWhenSpeedIsOver30OnCloseRoof.executor": "Run",
+    "JUnit.OnBoardComputerControllerTest.shouldThrowExceptionWhenSpeedIsOver30OnOpenRoof.executor": "Run",
+    "JUnit.OnBoardComputerControllerTest2.executor": "Run",
+    "JUnit.OnBoardComputerControllerTest2.shouldThrowExceptionWhenSpeedIsOver30OnCloseRoof.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Projekty/Mockito"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.kurs.homework.controller" />
+      <recent name="pl.kurs.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MasterTrafficLightControllerTest">
+    <configuration name="MasterTrafficLightControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kurs.homework.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kurs.homework.controller" />
+      <option name="MAIN_CLASS_NAME" value="pl.kurs.homework.controller.MasterTrafficLightControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasterTrafficLightControllerTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kurs.homework.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kurs.homework.controller" />
+      <option name="MAIN_CLASS_NAME" value="pl.kurs.homework.controller.MasterTrafficLightControllerTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasterTrafficLightControllerTest2.shouldChangeLightToGreenAtSpeedAbove40AndDistanceAbove50" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kurs.homework.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kurs.homework.controller" />
+      <option name="MAIN_CLASS_NAME" value="pl.kurs.homework.controller.MasterTrafficLightControllerTest2" />
+      <option name="METHOD_NAME" value="shouldChangeLightToGreenAtSpeedAbove40AndDistanceAbove50" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasterTrafficLightControllerTest2.shouldChangeLightToGreenAtSpeedBelow40AndDistanceBelow50" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kurs.homework.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kurs.homework.controller" />
+      <option name="MAIN_CLASS_NAME" value="pl.kurs.homework.controller.MasterTrafficLightControllerTest2" />
+      <option name="METHOD_NAME" value="shouldChangeLightToGreenAtSpeedBelow40AndDistanceBelow50" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasterTrafficLightControllerTest2.shouldChangeLightToRedAtSpeedAbove40AndDistanceBelow50 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kurs.homework.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kurs.homework.controller" />
+      <option name="MAIN_CLASS_NAME" value="pl.kurs.homework.controller.MasterTrafficLightControllerTest2" />
+      <option name="METHOD_NAME" value="shouldChangeLightToRedAtSpeedAbove40AndDistanceBelow50(double,double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MasterTrafficLightControllerTest" />
+        <item itemvalue="JUnit.MasterTrafficLightControllerTest2" />
+        <item itemvalue="JUnit.MasterTrafficLightControllerTest2.shouldChangeLightToGreenAtSpeedBelow40AndDistanceBelow50" />
+        <item itemvalue="JUnit.MasterTrafficLightControllerTest2.shouldChangeLightToGreenAtSpeedAbove40AndDistanceAbove50" />
+        <item itemvalue="JUnit.MasterTrafficLightControllerTest2.shouldChangeLightToRedAtSpeedAbove40AndDistanceBelow50 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b0b8376-1a5a-4a31-8f4c-4f8a61f1783a" name="Changes" comment="" />
+      <created>1723647742971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723647742971</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Mockito$MasterTrafficLightControllerTest2.ic" NAME="MasterTrafficLightControllerTest2 Coverage Results" MODIFIED="1724010535050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.kurs.homework.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Mockito$MasterTrafficLightControllerTest.ic" NAME="MasterTrafficLightControllerTest Coverage Results" MODIFIED="1724010591526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.kurs.homework.controller.*</FILTER>
+    </SUITE>
+  </component>
+</project>
