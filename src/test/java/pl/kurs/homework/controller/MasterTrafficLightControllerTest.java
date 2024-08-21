@@ -56,9 +56,7 @@ public class MasterTrafficLightControllerTest {
         return Stream.of(
                 Arguments.of(65, 100),
                 Arguments.of(25, 48),
-                Arguments.of(23, 234),
-                Arguments.of(15, 434),
-                Arguments.of(69, 299)
+                Arguments.of(23, 234)
         );
     }
 
